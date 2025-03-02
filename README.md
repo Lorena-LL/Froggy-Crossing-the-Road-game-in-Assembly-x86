@@ -2,7 +2,7 @@
 
 Froggy Crossing the Road is a fun, modern twist on the classic arcade game Frogger from 1981. Inspired by the original, this university project brings back the challenge of guiding a frog across busy roads and tricky rivers to safety.
 
-![image](https://github.com/Lorena-LL/Froggy-Crossing-the-Road-game-in-Assembly-x86/assets/135257878/e33ddd3e-0cbc-451c-b0c2-a00e4c481d80)
+https://github.com/user-attachments/assets/89da12de-667a-4c48-b7c5-d9ee42627d77
 
 ## Controls
 
